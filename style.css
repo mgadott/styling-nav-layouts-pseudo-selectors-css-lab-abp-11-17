@@ -103,6 +103,6 @@ div.questions a.btn{
   border-color: #007bff;
 }
 
-div.questions btn{
+div.questions btn:hover{
   text-decoration-color: #0069d9;
 }
