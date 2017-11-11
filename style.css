@@ -80,12 +80,13 @@ footer{
   color: #CCC;
 }
 div.questions{
-  padding: 0 20px 0 20px;
+  
 }
 
 div.questions{
   font-size: 30px;
   margin-bottom: 10px;
+  padding: 0 20px 0 20px;
 }
 
 .questions p{
