@@ -48,6 +48,10 @@ nav a:hover {
   color: #868e96;
 }
 
+h3#header a:hover{
+  text-decoration: underline;
+}
+
 main{
   margin-top: 20px;
 }
