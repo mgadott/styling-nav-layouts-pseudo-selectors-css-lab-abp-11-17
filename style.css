@@ -38,6 +38,10 @@ nav a {
   font-size: 18px;
 }
 
+nav a:hoover {
+  text-decoration: underline;
+}
+
 #header a{
   text-decoration: none;
   color: #868e96;
