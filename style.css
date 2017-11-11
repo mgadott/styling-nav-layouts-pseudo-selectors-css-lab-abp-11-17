@@ -86,4 +86,5 @@ div.questions{
 
 .questions p{
   margin-top: 30px
+  text-decoration: none;
 }
