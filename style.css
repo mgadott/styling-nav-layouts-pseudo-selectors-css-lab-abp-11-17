@@ -101,8 +101,9 @@ div.questions a.btn{
   color: #FFF;
   background-color: #007bff;
   border-color: #007bff;
+  text-decoration-color: #0069d9;
 }
 
 #a.btn:hover{
-  text-decoration-color: #0069d9;
+  
 }
