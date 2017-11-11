@@ -96,10 +96,13 @@ div.questions p{
   text-decoration: none;
 }
 
-div.questions a.btn:hover{
+div.questions a.btn{
   border-radius: 5px;
   color: #FFF;
   background-color: #007bff;
   border-color: #007bff;
+}
+
+div.questions btn:hover{
   text-decoration-color: #0069d9;
 }
